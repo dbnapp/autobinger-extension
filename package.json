@@ -1,0 +1,13 @@
+{
+  "title": "AutoBinger",
+  "name": "autobinger",
+  "version": "0.0.1",
+  "description": "A bing auto searcher",
+  "main": "index.js",
+  "author": "Daryl Napp",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
